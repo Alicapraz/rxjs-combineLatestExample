@@ -1,0 +1,10 @@
+{
+  "name": "rxjs",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/node": "^20.6.3",
+    "rxjs": "next",
+    "typescript": "^5.2.2"
+  }
+}
